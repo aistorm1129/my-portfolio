@@ -200,16 +200,12 @@ export const aboutData = [
     title: "experience",
     info: [
       {
-        title: "Chatbot Developer - Upwork ",
-        stage: "2023 - 2024",
-      },
-      {
         title: "AI Researcher - Axiata Digital",
-        stage: "2022 - 2023",
+        stage: "2021 - 2024",
       },
       {
         title: "Machine Learning Engineer - Machine Learning Malaysia ",
-        stage: "2019 - 2021",
+        stage: "2018 - 2021",
       },
       {
         title: "MERN stack Developer - Naiise ",
