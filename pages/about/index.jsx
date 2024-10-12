@@ -208,7 +208,7 @@ export const aboutData = [
         stage: "2018 - 2021",
       },
       {
-        title: "MERN stack Developer - Naiise ",
+        title: "Web Developer - Naiise ",
         stage: "2017 - 2018",
       },
     ],
