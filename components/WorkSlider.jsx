@@ -92,13 +92,23 @@ const workSlides = {
           link: "",
         },
         {
+          title1: "Mask Detection in COVID-19",
+          title2: "(Python, Tensorflow, YOLO)",
+          path: "/portfolio/mask_detection.png",
+          link: "",
+        },   
+      ],
+    },  
+    {
+      images: [          
+        {
           title1: "Website Project",
           title2: "(Mern Stack)",
           path: "/portfolio/p11.jpg",
           link: "https://plate2plate.com",
-        }
+        }   
       ],
-    },    
+    },  
   ],
 };
 
