@@ -37,7 +37,7 @@ const workSlides = {
         { 
           title1: "Clothing Translate",
           title2: "(TensorFlow/Keras, Fashion MNIST, spaCy)",
-          path: "/portfolio/clothing translate.png",
+          path: "/portfolio/clothing_translate.png",
           link: "",
         },
 
@@ -47,7 +47,7 @@ const workSlides = {
       images: [
         {
           title1: "Cow Management System",
-          title2: "(TensorFlow/Keras, DeepSort, OpenCV)",
+          title2: "(TensorFlow/Keras, YOLO, DeepSort, OpenCV)",
           path: "/portfolio/cow_management.png",
           link: "",
         },
@@ -65,7 +65,7 @@ const workSlides = {
         },
         {
           title1: "Commuting Management System",
-          title2: "(Tensorflow, YOLO, OpenCV, Django)",
+          title2: "(Tensorflow, FaceNet, OpenCV)",
           path: "/portfolio/access_control.png",
           link: "",
         },        
@@ -86,11 +86,11 @@ const workSlides = {
           link: "",
         },
         {
-          title1: "Customer Support Automation",
-          title2: "(Zapier, HubSpot)",
-          path: "/portfolio/automation.png",
+          title1: "Motion Pose Estimation",
+          title2: "(Python, PoseNet, DeepSort, OpenCV)",
+          path: "/portfolio/motion_tracking.png",
           link: "",
-        },
+        },  
         {
           title1: "Mask Detection in COVID-19",
           title2: "(Python, Tensorflow, YOLO)",
@@ -100,7 +100,13 @@ const workSlides = {
       ],
     },  
     {
-      images: [          
+      images: [                
+        {
+          title1: "Customer Support Automation",
+          title2: "(Zapier, HubSpot)",
+          path: "/portfolio/automation.png",
+          link: "",
+        },
         {
           title1: "Website Project",
           title2: "(Mern Stack)",
