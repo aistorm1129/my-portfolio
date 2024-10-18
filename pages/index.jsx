@@ -78,7 +78,7 @@ const Home = () => {
           transition={{ duration: 1, ease: "easeInOut" }}
           className="w-full h-full max-w-[300px] max-h-[300px] absolute top-[30%] lg:right-[10%] -translate-x-[50%] -translate-y-[50%]"
         >
-          <Avatar />
+          {/* <Avatar /> */}
         </motion.div>
       </div>
     </div>
